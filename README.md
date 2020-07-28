@@ -1,2 +1,2 @@
-# Resume
-My Resume
+# 양예지
+₩iOS개발자 
